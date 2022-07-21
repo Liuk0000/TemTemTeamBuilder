@@ -1,0 +1,12 @@
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\bin\Debug\net6.0\TemTemTeamBuilder.deps.json
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\bin\Debug\net6.0\TemTemTeamBuilder.dll
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\bin\Debug\net6.0\TemTemTeamBuilder.pdb
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.csproj.AssemblyReference.cache
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.AssemblyInfoInputs.cache
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.AssemblyInfo.cs
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.csproj.CoreCompileInputs.cache
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.dll
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\refint\TemTemTeamBuilder.dll
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\TemTemTeamBuilder.pdb
+C:\Users\U-06\source\repos\TemTemTeamBuilder\TemTemTeamBuilder\obj\Debug\net6.0\ref\TemTemTeamBuilder.dll

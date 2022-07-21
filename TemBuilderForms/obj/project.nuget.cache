@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BewynR2FDGBy5+SohKlC1/pMMArMHVVu7pDwCMogFOenhzcMPg6qcCAViVMlK0xY3GVF0vgNIsejJ/HEVdrapA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\U-06\\source\\repos\\TemTemTeamBuilder\\TemBuilderForms\\TemBuilderForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U-06\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
